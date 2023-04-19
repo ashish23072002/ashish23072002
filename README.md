@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ashish23bisht@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](Resume.pdf)
+- 📄 Know about my experiences: [Resume.pdf](Resume.pdf)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
