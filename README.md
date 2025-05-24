@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JS, React Js, Go Lang, Express, MongoDB**
 
-- 🔭 I’m currently working on  Booking App  | MERN Stack Reservation Website !!!
+- 🔭 I’m currently working on [Exploring and Applying Advanced React Concepts](https://github.com/ashish23072002/Learnning-reacts-with-mini-projects), Booking App  | MERN Stack Reservation Website !!!
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashish23072002](https://github.com/ashish23072002)
 
