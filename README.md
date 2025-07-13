@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashish23072002](https://github.com/ashish23072002)
 
-- 📫 How to reach me **ashish23bisht@gmail.com**
+- 📫 How to reach me **ashish23bisht23@gmail.com**
 
 - 📄 Know about my experiences: [Resume.pdf](Resume.pdf)
 
